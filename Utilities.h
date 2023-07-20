@@ -1,12 +1,3 @@
-// Name: Aanand Aman
-// Seneca Student ID: 166125211
-// Seneca email: aaman8@myseneca.ca
-// Date of completion: 2023/03/15
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
-
-
 
 #ifndef SDDS_UTILITIES_H
 #define SDDS_UTILITIES_H
